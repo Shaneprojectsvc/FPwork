@@ -1,0 +1,39 @@
+@charset "utf-8";
+body p {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-size: large;
+}
+h1 {
+    color: #F0161A;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+}
+h2 {
+    color: #32ED23;
+    font-size: x-large;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+p  {
+    color: #0C078F;
+    font-size: large;
+    font-family: "DejaVu Sans", sans-serif;
+    background-color: #6A5D5E;
+} 
+body 
+{
+    background-image: url("indexbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF; 
+
+}
+.genesis-hold {
+     background-color:  #000055; 
+     text-align: center;
+     position: absolute;
+     margin: auto;
+     padding: 40px;
+     width: 70%; 
+} 
