@@ -23,7 +23,7 @@ p  {
 } 
 body 
 {
-    background-image: url("indexbg.jpg");
+    background-image: ("indexbg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFFFFF; 
